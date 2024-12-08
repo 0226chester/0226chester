@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🔭 I'm studying AI
 <!--
 **0226chester/0226chester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
